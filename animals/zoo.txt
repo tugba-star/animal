@@ -1,1 +1,1 @@
-bird, hamster
+cat,konijn,beer,bird, hamster
